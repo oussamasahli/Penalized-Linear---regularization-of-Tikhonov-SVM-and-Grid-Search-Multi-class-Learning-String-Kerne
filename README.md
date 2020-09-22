@@ -1,0 +1,1 @@
+# Penalized-Linear---regularization-of-Tikhonov-SVM-and-Grid-Search-Multi-class-Learning-String-Kerne
